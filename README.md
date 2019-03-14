@@ -1,7 +1,7 @@
-# Design-Library
+# Design-Library beta
 
-The goal of the pattern library is to create reusable, well organized symbols to make prototyping easier. 
+The goal of the pattern library is to create reusable and organized symbols to make prototyping fast and easy. 
 
-The first version collects a few components (like list items, pickers, number slider, etc.) and views (ie. Sign Up, Settings, Lists, and number inputs) 
+The first version includes a few components (list items, pickers, number slider, etc.) and views (ie. Sign Up, Settings, Lists, and Number inputs) 
 
-Check out the sketch file and add feedback about components you'd want in there. 
+Download the sketch file and add feedback about components you'd want in there.
